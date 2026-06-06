@@ -1,4 +1,8 @@
 # misplaced
+
+
+<img width="670" height="165" alt="1Asset 1@2x" src="https://github.com/user-attachments/assets/1336776c-742f-4f1a-b8c3-955c49810f2d" />
+
 Repository for my BA project, containing a prototype of a TouchDesigner plugin for audioreactive visuals and projection mapping, using KantanMapper plugin. 
 
 Welcome to this little corner of the internet! This is the official documentation and guide to MISPLACED, a audioreactive plugin for TouchDesigner. (2026)
